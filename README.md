@@ -1,7 +1,9 @@
-# Flight Seat Selection
+<img width="1385" height="849" alt="image" src="https://github.com/user-attachments/assets/d4b65319-a751-4971-945e-4f4ae3c3057b" /># Flight Seat Selection
 
 A React app where passengers pick seats on a flight, choose meals, and see the total cost.
 It uses mock data only, with no backend.
+
+**Live Demo:** https://flight-seat-selector-nu.vercel.app/
 
 ## Run it
 
